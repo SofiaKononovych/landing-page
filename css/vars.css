@@ -1,0 +1,23 @@
+:root {
+    --clr-orange:#E08631;
+
+    --clr-grey-soft:#FDFCFC;
+    --clr-grey-light:#504B49;
+    --clr-grey:#353231;
+    --clr-grey-dark:#1B1918;
+
+    --clr-brown-soft:#EEE4DD;
+    --clr-brown-light:#D7C0AE;
+    --clr-brown:#967E76;
+    --clr-brown-dark:#5F4F49;
+
+    --gap-xs:4px;
+    --gap-sm:8px;
+    --gap-md:16px;
+    --gap-lg:32px;
+    --gap-xl:64px;
+
+    --width-sm: 592px;
+    --width-md: 794px;
+    --width-full: 100%;
+}
